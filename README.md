@@ -1,4 +1,6 @@
-# Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Eric%20Dallan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20PHP%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
 <div align="center">
   
@@ -14,8 +16,8 @@
 <?php
 
 class Developer {
-    public string $name = "Subagaja Eric Dallan";
-    public string $role = "Amateur Web Developer";
+    public string $name = "Subagja Eric Dallan";
+    public string $role = "Amaetur Web Developer";
     public array $languages = ["PHP", "JavaScript", "HTML", "CSS"];
     public string $currentFocus = "Building awesome web applications";
     public bool $openToCollaborate = true;
@@ -25,6 +27,7 @@ class Developer {
 - 🔭 Currently working on **web development projects**
 - 🌱 Learning **new frameworks and technologies**
 - 💬 Ask me about **PHP, JavaScript, or web development**
+- ⚡ Fun fact: **41 commits and counting!**
 
 ---
 
@@ -81,11 +84,20 @@ class Developer {
 ---
 
 <div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ericdallan&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
   
-**From [ericdallan](https://github.com/ericdallan) **
+ From [ericdallan](https://github.com/ericdallan)
 
 </div>
