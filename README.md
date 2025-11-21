@@ -27,7 +27,7 @@ class Developer {
 - 🔭 Currently working on **web development projects**
 - 🌱 Learning **new frameworks and technologies**
 - 💬 Ask me about **PHP, JavaScript, or web development**
-- ⚡ Fun fact: **41 commits and counting!**
+- ⚡ Fun fact: **Die hard Manchester United fan** 🔴⚫
 
 ---
 
