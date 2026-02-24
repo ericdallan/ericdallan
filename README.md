@@ -3,6 +3,8 @@
 # Eric Dallan
 **Aspiring Web Developer · Red Devil 🔴**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=DA291C&center=true&vCenter=true&width=450&lines=Building+Web+%26+Desktop+Apps;Laravel+%7C+PHP+Enthusiast;Glory+Glory+Man+United+🔴)](https://git.io/typing-svg)
+
 <br>
 
 [![Visit Website](https://img.shields.io/badge/🌐%20inniakundigi.co.id-Visit%20Now-DA291C?style=for-the-badge)](https://inniakundigi.co.id)
@@ -18,6 +20,8 @@ $eric = [
     "role"      => "Aspiring Web Developer",
     "learning"  => ["PHP", "Laravel", "Web & Desktop Apps"],
     "club"      => "Manchester United 🔴",
+    "website"   => "inniakundigi.co.id",
+    "motto"     => "Ship code. Watch United. Repeat.",
 ];
 ```
 
@@ -36,14 +40,70 @@ $eric = [
 
 ---
 
-### 🚀 Live Demo
+## 🚀 My Apps — Try the Demo
 
-Try out my apps:
+<div align="center">
 
-| App | Demo |
-|-----|------|
-| 📒 Accounting | [demo.inniakundigi.co.id](https://demo.inniakundigi.co.id) |
-| 🛒 Point of Sale | [demo-pos.inniakundigi.co.id](https://demo-pos.inniakundigi.co.id) |
+### 📒 inni Akun Digi — Accounting App
+> Aplikasi akuntansi lengkap untuk manajemen keuangan bisnis Anda
+
+[![Demo Accounting](https://img.shields.io/badge/▶%20Try%20Demo-demo.inniakundigi.co.id-DA291C?style=for-the-badge)](https://demo.inniakundigi.co.id)
+
+</div>
+
+**🔥 Fitur Unggulan**
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| 🔥 Manajemen Voucher | Buat, edit, dan lacak voucher transaksi (pembelian, penjualan, transfer) dengan validasi otomatis |
+| 🔥 Neraca Keuangan | Gambaran arus kas dan posisi keuangan bisnis secara real-time |
+| 🔥 Dashboard | Visualisasi data real-time — laba, penjualan, dan komposisi stok |
+| 📊 Bagan Akun | Struktur akun keuangan yang jelas untuk aset, liabilitas, dan ekuitas |
+| 📒 Buku Besar Umum | Rekam semua transaksi keuangan secara terperinci |
+| 💰 Piutang & Hutang | Kelola tagihan pelanggan dan kewajiban ke pemasok secara real-time |
+| 📦 Stock & Produksi | Lacak inventaris, stok masuk/keluar, dan proses produksi |
+| 📈 Laba Rugi & Neraca Saldo | Analisis kinerja bisnis dan keseimbangan keuangan |
+| 📤 Import & Export | Import via Excel/CSV, ekspor laporan ke PDF atau Excel |
+
+---
+
+<div align="center">
+
+### 🛒 inni POS — Point of Sale App
+> Sistem kasir modern yang cepat, akurat, dan mudah digunakan
+
+[![Demo POS](https://img.shields.io/badge/▶%20Try%20Demo-demo--pos.inniakundigi.co.id-1a1a1a?style=for-the-badge)](https://demo-pos.inniakundigi.co.id)
+
+</div>
+
+**🔥 Fitur Unggulan**
+
+| Fitur | Deskripsi |
+|-------|-----------|
+| 🔥 Transaksi Kasir | Proses penjualan cepat — input manual atau scan barcode, diskon, PPN, struk otomatis |
+| 🔥 Multi Metode Pembayaran | Tunai, QRIS, Transfer Bank, Kartu Debit/Kredit, E-Wallet |
+| 🔥 Laporan Penjualan | Top produk, breakdown pelanggan, tren penjualan harian–tahunan |
+| 🏷️ Scan Barcode | Support CODE128, EAN-13, EAN-8, QRCODE + generate & cetak label massal |
+| 🏭 Stok & Multi-Gudang | Pantau stok real-time per gudang, otomatis berkurang saat transaksi |
+| 👥 Data Pelanggan | Riwayat pembelian lengkap per pelanggan |
+| 🔄 Retur Penjualan | Kelola retur dari POS & Sales Order, stok otomatis diperbarui |
+| 💸 Laporan Arus Kas | Semua transaksi POS masuk otomatis ke cash flow harian/bulanan/tahunan |
+| 🚚 Manajemen Supplier | Data supplier terintegrasi dengan Purchase Order |
+
+---
+
+<div align="center">
+
+### ⭐ Full Version — Accounting + POS Terintegrasi
+
+> Dapatkan keduanya dalam satu ekosistem bisnis yang terhubung penuh
+
+</div>
+
+| Fitur Eksklusif Full Version | |
+|---|---|
+| 🔗 Integrasi Accounting ↔ POS | Transaksi POS otomatis masuk ke jurnal akuntansi |
+| 🗄️ Backup & Restore Database | Backup dan restore data kapan saja dengan mudah |
 
 ---
 
