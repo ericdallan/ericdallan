@@ -26,15 +26,6 @@ $eric = [
 
 ---
 
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericdallan&show_icons=true&theme=dark&hide_border=true&title_color=DA291C&icon_color=DA291C" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdallan&layout=compact&theme=dark&hide_border=true&title_color=DA291C" height="150"/>
-</div>
-
----
-
 ### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github)](https://github.com/ericdallan)
