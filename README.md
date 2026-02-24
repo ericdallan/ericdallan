@@ -5,7 +5,7 @@
 
 <br>
 
-[![Visit Website](https://img.shields.io/badge/🌐%20inniakundigi.co.id-Visit%20Now-DA291C?style=for-the-badge&logoColor=white)](https://inniakundigi.co.id)
+[![Visit Website](https://img.shields.io/badge/🌐%20inniakundigi.co.id-Visit%20Now-DA291C?style=for-the-badge)](https://inniakundigi.co.id)
 
 </div>
 
@@ -30,17 +30,20 @@ $eric = [
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 Stats
+### 🚀 Live Demo
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericdallan&show_icons=true&theme=dark&hide_border=true&title_color=DA291C&icon_color=DA291C&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdallan&layout=compact&theme=dark&hide_border=true&title_color=DA291C&bg_color=0d1117" height="150"/>
-</div>
+Try out my apps:
+
+| App | Demo |
+|-----|------|
+| 📒 Accounting | [demo.inniakundigi.co.id](https://demo.inniakundigi.co.id) |
+| 🛒 Point of Sale | [demo-pos.inniakundigi.co.id](https://demo-pos.inniakundigi.co.id) |
 
 ---
 
@@ -53,10 +56,5 @@ $eric = [
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericdallan&theme=github-compact&hide_border=true&bg_color=0d1117&color=DA291C&line=DA291C&point=ffffff&area=true" width="100%"/>
-</div>
-
-<div align="center">
-  <br>
   <sub>⚫🔴 Glory Glory Man United 🔴⚫</sub>
 </div>
