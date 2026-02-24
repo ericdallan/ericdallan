@@ -1,8 +1,11 @@
 <div align="center">
 
 # Eric Dallan
+**Aspiring Web Developer · Red Devil 🔴**
 
-**Web Developer · Manchester United**
+<br>
+
+[![Visit Website](https://img.shields.io/badge/🌐%20inniakundigi.co.id-Visit%20Now-DA291C?style=for-the-badge&logoColor=white)](https://inniakundigi.co.id)
 
 </div>
 
@@ -13,28 +16,47 @@
 
 $eric = [
     "role"      => "Aspiring Web Developer",
-    "learning"  => ["PHP", "JavaScript", "Web & Desktop Apps"],
+    "learning"  => ["PHP", "Laravel", "Web & Desktop Apps"],
     "club"      => "Manchester United 🔴",
 ];
 ```
 
 ---
 
-### Stack
+### 🛠 Stack
 
-`PHP` `Laravel` `JavaScript` `HTML` `Tailwind CSS` `SQLite` `Git`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Connect
+### 📊 Stats
 
-[![Website](https://img.shields.io/badge/inniakundigi.co.id-000?style=flat-square&logo=googlechrome&logoColor=white)](https://inniakundigi.co.id)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github)](https://github.com/ericdallan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subagja-eric-dallan-5723811b9/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericdallan&show_icons=true&theme=dark&hide_border=true&title_color=DA291C&icon_color=DA291C&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdallan&layout=compact&theme=dark&hide_border=true&title_color=DA291C&bg_color=0d1117" height="150"/>
+</div>
+
+---
+
+### 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ericdallan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subagja-eric-dallan-5723811b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:inni.eric@email.com)
 
 ---
 
 <div align="center">
-  <sub>GGMU 🔴</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericdallan&theme=github-compact&hide_border=true&bg_color=0d1117&color=DA291C&line=DA291C&point=ffffff&area=true" width="100%"/>
+</div>
+
+<div align="center">
+  <br>
+  <sub>⚫🔴 Glory Glory Man United 🔴⚫</sub>
 </div>
