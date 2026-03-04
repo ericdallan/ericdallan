@@ -1,29 +1,10 @@
 <div align="center">
 
 # Eric Dallan
-**Aspiring Web Developer · Red Devil 🔴**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=DA291C&center=true&vCenter=true&width=450&lines=Building+Web+%26+Desktop+Apps;Laravel+%7C+PHP+Enthusiast;Glory+Glory+Man+United+🔴)](https://git.io/typing-svg)
-
-<br>
 
 [![Visit Website](https://img.shields.io/badge/🌐%20inniakundigi.co.id-Visit%20Now-DA291C?style=for-the-badge)](https://inniakundigi.co.id)
 
 </div>
-
----
-
-```php
-<?php
-
-$eric = [
-    "role"      => "Aspiring Web Developer",
-    "learning"  => ["PHP", "Laravel", "Web & Desktop Apps"],
-    "club"      => "Manchester United 🔴",
-    "website"   => "inniakundigi.co.id",
-    "motto"     => "Ship code. Watch United. Repeat.",
-];
-```
 
 ---
 
@@ -114,7 +95,3 @@ $eric = [
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:inni.eric@email.com)
 
 ---
-
-<div align="center">
-  <sub>⚫🔴 Glory Glory Man United 🔴⚫</sub>
-</div>
